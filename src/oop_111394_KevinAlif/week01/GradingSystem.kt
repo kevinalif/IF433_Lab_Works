@@ -1,32 +1,23 @@
 package oop_111394_KevinAlif.week01
 
-fun main() {
-    val name = "John Thor"
-    val score = 80
+fun main (args: Array<String>) {
+    // REFACTOR: Ubah var menjadi val dan hapus tipe data eksplisit
+    val radius = 7.0
+    val pi = 3.14
 
-    println("Nama: $name, Nilai: $score")
+    // REFACTOR: Gunakan val karena nilainya tidak berubah
+    val area = pi * radius * radius
 
-    val grade = when (score) {
-        in 90..100 -> "A"
-        in 80..89 -> "B"
-        in 70..79 -> "C"
-        else -> "D"
-    }
-    println("Grade kamu: $grade")
+    // REFACTOR: Gunakan String Template ($) daripada tanda +
+    println("Radius: $radius, Area: $area")
 
-    // Panggil fungsi calculateStatus di sini [cite: 150]
-    // Gunakan ${ } karena kita memanggil fungsi di dalam string
-    println("Status: ${calculateStatus(score)}")
+    checkSize(area)
 }
 
-// Tulis fungsi ini DI LUAR main()
-// Kita menggunakan '=' (Expression Body) agar lebih ringkas [cite: 147, 149]
-fun calculateStatus(score: Int) = if (score > 75) "Lulus" else "Tidak Lulus"
-
-val studentId: String? = null
-
-// Safe Call (?.) dan Elvis Operator (?:)
-// Jika studentId null, maka idLength akan bernilai 0
-val idLength = studentId?.length ?: 0
-
-println("Panjang ID: $idLength")
+fun checkSize (area: Double) {
+    if (area > 100) {
+        println("This is a Big Circle")
+    } else {
+        println("This is a Small Circle")
+    }
+}
