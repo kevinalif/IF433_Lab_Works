@@ -22,3 +22,11 @@ fun main() {
 // Tulis fungsi ini DI LUAR main()
 // Kita menggunakan '=' (Expression Body) agar lebih ringkas [cite: 147, 149]
 fun calculateStatus(score: Int) = if (score > 75) "Lulus" else "Tidak Lulus"
+
+val studentId: String? = null
+
+// Safe Call (?.) dan Elvis Operator (?:)
+// Jika studentId null, maka idLength akan bernilai 0
+val idLength = studentId?.length ?: 0
+
+println("Panjang ID: $idLength")
