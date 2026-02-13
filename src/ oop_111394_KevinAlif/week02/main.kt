@@ -1,6 +1,5 @@
 package oop_111394_KevinAlif.week02
 
-import oop_111394_KevinAlif.week02.Student
 import java.util.Scanner
 
 fun main() {
@@ -16,13 +15,32 @@ fun main() {
 
     scanner.nextLine()
 
-    if (nim.length != 5){
+    if (nim.length != 5) {
         println("ERROR: Pendaftaran dibatalkan. NIM harus 5 karakter!")
     } else {
-        print("Masukan Jurusan: ")
-        val major = scanner.nextLine()
+        println("Pilih Jalur Pendaftaran:")
+        println("1. Reguler (Isi Jurusan)")
+        println("2. Umum (Jurusan Otomatis 'Non-Matriculated')")
+        print("Pilihan Anda (1/2): ")
 
-        val s1 = Student(name, nim, major)
-        println("Status: Pendaftaran Selesai. ")
+        val type = scanner.nextInt()
+        scanner.nextLine()
+
+        if (type == 1) {
+            // JALUR 1: Input manual
+            print("Masukkan Jurusan: ")
+            val major = scanner.nextLine()
+
+            val s1 = Student(name, nim, major)
+            println("Terdaftar di: ${s1.major} dengan GPA awal ${s1.gpa}")
+
+        } else if (type == 2) {
+            // JALUR 2: Pakai Default Argument
+            val s2 = Student(name, nim)
+            println("Terdaftar di: ${s2.major} dengan GPA awal ${s2.gpa}")
+
+        } else {
+            println("Pilihan ngawur, pendaftaran batal!")
+        }
     }
 }
