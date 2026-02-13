@@ -1,5 +1,6 @@
-package ` oop_111394_KevinAlif`.week02
+package oop_111394_KevinAlif.week02
 
+import oop_111394_KevinAlif.week02.Student
 import java.util.Scanner
 
 fun main() {
@@ -21,7 +22,7 @@ fun main() {
         print("Masukan Jurusan: ")
         val major = scanner.nextLine()
 
-        val s1 = Student(name,nim,major)
+        val s1 = Student(name, nim, major)
         println("Status: Pendaftaran Selesai. ")
     }
 }
