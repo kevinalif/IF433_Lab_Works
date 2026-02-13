@@ -1,11 +1,11 @@
 package ` oop_111394_KevinAlif`.week02
 
-class student (
+class Student (
     val name : String,
     val nim: String,
-    val major: String
+    var major: String
 ){
-class student_(val name: String, val nim: String, val major: String) {
+class Student_(val name: String, val nim: String, val major: String) {
     init {
         if (nim.length !=5) {
             println("WARNING: Objek tercipta dengan NIM ($nim) yang tidak valid!")
@@ -13,6 +13,9 @@ class student_(val name: String, val nim: String, val major: String) {
         } else {
             println("LOG: Objek student $name berhasil dialokasikan di Memory. ")
         }
+    }
+    constructor(name: String, nim: String) : this(name,nim, major= "Non-matriculated"){
+        println("LOG: Menggunakan constructor jalur umum (Tanpan Jurusan).")
     }
 }
 }
