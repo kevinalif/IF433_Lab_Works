@@ -1,34 +1,23 @@
 package oop_111394_KevinAlif.week02
-
 import java.util.Scanner
 
 fun main() {
     val scanner = Scanner(System.`in`)
-    println("---APLIKASI PMB UMN ---")
-    print("Masukkan Nama: ")
-    val name = scanner.nextLine()
-    print("masukkkan NIM (Wajib 5 Karakter): ")
-    val nim = scanner.next()
+
+    println("Sistem Perpustakaan")
+    print("Judul Buku: ")
+    val title = scanner.nextLine()
+    print("Peminjam: ")
+    val borrower = scanner.nextLine()
+    print("Lama Pinjam (hari): ")
+    var days = scanner.nextInt()
     scanner.nextLine()
-    if (nim.length != 5) {
-        println("ERROR: Pendaftaran dibatalkan. NIM harus 5 karakter!")
-    } else {
-        println("Pilih Jalur Pendaftaran:")
-        println("1. Reguler (Isi Jurusan)")
-        println("2. Umum (Jurusan Otomatis 'Non-Matriculated')")
-        print("Pilihan Anda (1/2): ")
-        val type = scanner.nextInt()
-        scanner.nextLine()
-        if (type == 1) {
-            print("Masukkan Jurusan: ")
-            val major = scanner.nextLine()
-            val s1 = Student(name, nim, major)
-            println("Terdaftar di: ${s1.major} dengan GPA awal ${s1.gpa}")
-        } else if (type == 2) {
-            val s2 = Student(name, nim)
-            println("Terdaftar di: ${s2.major} dengan GPA awal ${s2.gpa}")
-        } else {
-            println("Pilihan ngawur, pendaftaran batal!")
-        }
+    if (days < 0) {
+        days = 1
     }
+    val myLoan = Loan(title, borrower, days)
+    val denda = myLoan.calculateFine()
+    println("\n Deskripsi")
+    println("Buku: ${myLoan.bookTitle}")
+    println("Total Denda: Rp $denda")
 }
