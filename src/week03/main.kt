@@ -7,7 +7,6 @@ fun main() {
     e.salary = 5000000
     println("Gaji: ${e.salary}")
 
-    e.increasePerformance()
     e.printStatus()
 
     println("Pajak yang harus dibayar: ${e.tax}")
