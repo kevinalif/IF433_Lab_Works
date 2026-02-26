@@ -18,4 +18,13 @@ fun main() {
     sword.damage = 9999
 
     println("Senjata: ${sword.name}, Damage: ${sword.damage}, Tier: ${sword.tier}")
+
+    println("\n--- Pengujian Player ---")
+    val p1 = Player("Clavis")
+
+    println("Level awal: ${p1.level}")
+    p1.addXp(50)
+    println("Level setelah tambah 50 XP: ${p1.level}")
+
+    p1.addXp(60)
 }
