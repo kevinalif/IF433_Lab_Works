@@ -1,6 +1,10 @@
 package oop_111394_kevinalif.week4
 
-open class Vehicle(val brand: String) {
+open class Car(brand: String, val numberOfDoors: Int) : Vehicle(brand) {
+
+    fun openTrunk() {
+        println("Bagasi mobil $brand dengan $numberOfDoors pintu dibuka.")
+    }
     var speed: Int = 0
 
     open fun accelerate() {
