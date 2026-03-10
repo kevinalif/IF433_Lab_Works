@@ -15,6 +15,7 @@ fun main() {
                 println("=> Terdeteksi sebagai Dosen (NIDN: ${pegawai.nidn})")
                 pegawai.mengajar()
             }
+
             is Admin -> {
                 println("=> Terdeteksi sebagai Admin")
                 pegawai.doAdminWork()
@@ -28,4 +29,15 @@ fun main() {
     println("Luas Persegi Panjang (4x6): ${mathHelper.hitungLuas(4, 6)}")
     println("Luas Lingkaran (jari-jari 7.0): ${mathHelper.hitungLuas(7.0)}")
     println()
+
+    println("=== TUGAS 2: SISTEM PEMBAYARAN ===")
+    val myEWallet = EWallet("Kevin", 50000.0)
+    val myCreditCard = CreditCard("Kevin", 100000.0)
+
+    val daftarPembayaran: List<PaymentMethod> = listOf(myEWallet, myCreditCard)
+
+    for (payment in daftarPembayaran) {
+        println("-> Mencoba memproses pembayaran sebesar 75000.0")
+        payment.processPayment(75000.0)
+    }
 }
