@@ -22,4 +22,10 @@ fun main() {
         }
         println()
     }
+    println("=== TUGAS 1: MATH HELPER (OVERLOADING) ===")
+    val mathHelper = MathHelper()
+    println("Luas Persegi (sisi 5): ${mathHelper.hitungLuas(5)}")
+    println("Luas Persegi Panjang (4x6): ${mathHelper.hitungLuas(4, 6)}")
+    println("Luas Lingkaran (jari-jari 7.0): ${mathHelper.hitungLuas(7.0)}")
+    println()
 }
