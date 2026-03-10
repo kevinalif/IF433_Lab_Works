@@ -39,5 +39,12 @@ fun main() {
     for (payment in daftarPembayaran) {
         println("-> Mencoba memproses pembayaran sebesar 75000.0")
         payment.processPayment(75000.0)
+
+        if (payment is EWallet && payment.balance < 75000.0) {
+            println("=> Saldo kurang! Melakukan auto Top Up 50000.0...")
+            payment.topUp(50000.0)
+            payment.processPayment(75000.0) // Coba bayar lagi
+        }
+        println()
     }
 }
