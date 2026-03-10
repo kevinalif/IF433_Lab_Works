@@ -1,4 +1,5 @@
 package oop_111394_KevinAlif.Week5
 
-class Pegawai {
+abstract class Pegawai(val nama: String) {
+    abstract fun bekerja()
 }
