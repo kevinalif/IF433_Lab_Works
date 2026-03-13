@@ -13,3 +13,6 @@ class Smartwatch: Watch(), BluetoothConnectable, Rechargeable {
         println("Mengisi daya menggunakan charger magnetik 15W.")
     }
 }
+
+class Smartphone: Camera, Phone {
+}
