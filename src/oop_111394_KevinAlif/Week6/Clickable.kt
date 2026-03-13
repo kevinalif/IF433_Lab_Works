@@ -1,6 +1,6 @@
 package oop_111394_KevinAlif.Week6
 
-    interface  {
+    interface Clickable  {
         val name: String
         fun click()
     }
