@@ -15,7 +15,7 @@ fun main() {
     println(data1) // Otomatis readable format
     println("Sama? ${data1 == data2}")
 
-    println("\n=== TEST REGULAR CLASS ===")
+    println("\n== TEST REGULAR CLASS ==")
     val reg1 = RegularUser("Alice", 22)
     val reg2 = RegularUser("Alice", 22)
     println(reg1)
