@@ -46,5 +46,16 @@ fun main() {
 
     val starterWeapon = Weapon.forgeStarterSword()
     println("Senjata didapatkan: ${starterWeapon.item.name}, Damage: ${starterWeapon.item.damage}, Durability: ${starterWeapon.durability}")
+
+    println("\n=== TEST IMMUTABILITY & BATTLE EVENTS ===")
+
+    val upgradedSwordItem = starterWeapon.item.copy(damage = 25)
+    println("Senjata di-upgrade menjadi: ${upgradedSwordItem.name} dengan damage ${upgradedSwordItem.damage}")
+
+
+    processEvent(BattleState.SafeZone)
+    processEvent(BattleState.MonsterEncounter("Goblin Nakal"))
+    processEvent(BattleState.LootDropped(upgradedSwordItem))
+    processEvent(BattleState.GameOver("Terkena jebakan racun"))
     }
 
