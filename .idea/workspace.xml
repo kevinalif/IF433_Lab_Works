@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7c193663-e0bf-4cf3-908a-3501f4dcd2b6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/oop_111394_KevinAlif/Week8/UserProfile.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/kotlinc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IF433_Lab_Works/META-INF/IF433_Lab_Works.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IF433_Lab_Works/oop_111394_KevinAlif/Week5/Admin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IF433_Lab_Works/oop_111394_KevinAlif/Week5/CreditCard.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IF433_Lab_Works/oop_111394_KevinAlif/Week5/Dosen.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IF433_Lab_Works/oop_111394_KevinAlif/Week5/EWallet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IF433_Lab_Works/oop_111394_KevinAlif/Week5/MainKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IF433_Lab_Works/oop_111394_KevinAlif/Week5/MathHelper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IF433_Lab_Works/oop_111394_KevinAlif/Week5/PaymentMethod.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IF433_Lab_Works/oop_111394_KevinAlif/Week5/Pegawai.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IF433_Lab_Works/oop_111394_KevinAlif/Week6/BluetoothConnectable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IF433_Lab_Works/oop_111394_KevinAlif/Week6/Button.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IF433_Lab_Works/oop_111394_KevinAlif/Week6/Camera$DefaultImpls.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IF433_Lab_Works/oop_111394_KevinAlif/Week6/Camera.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IF433_Lab_Works/oop_111394_KevinAlif/Week6/Clickable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IF433_Lab_Works/oop_111394_KevinAlif/Week6/CreditCard.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IF433_Lab_Works/oop_111394_KevinAlif/Week6/Gopay.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IF433_Lab_Works/oop_111394_KevinAlif/Week6/MainKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IF433_Lab_Works/oop_111394_KevinAlif/Week6/PaymentMethod.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IF433_Lab_Works/oop_111394_KevinAlif/Week6/Phone$DefaultImpls.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IF433_Lab_Works/oop_111394_KevinAlif/Week6/Phone.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IF433_Lab_Works/oop_111394_KevinAlif/Week6/Rechargeable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IF433_Lab_Works/oop_111394_KevinAlif/Week6/Recordable$DefaultImpls.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IF433_Lab_Works/oop_111394_KevinAlif/Week6/Recordable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IF433_Lab_Works/oop_111394_KevinAlif/Week6/SmartCCTV.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IF433_Lab_Works/oop_111394_KevinAlif/Week6/SmartDevice.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IF433_Lab_Works/oop_111394_KevinAlif/Week6/SmartHomeHub.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IF433_Lab_Works/oop_111394_KevinAlif/Week6/SmartLamp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IF433_Lab_Works/oop_111394_KevinAlif/Week6/SmartSpeaker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IF433_Lab_Works/oop_111394_KevinAlif/Week6/Smartphone.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IF433_Lab_Works/oop_111394_KevinAlif/Week6/Smartwatch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IF433_Lab_Works/oop_111394_KevinAlif/Week6/Switchable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IF433_Lab_Works/oop_111394_KevinAlif/Week6/Watch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IF433_Lab_Works/oop_111394_KevinAlif/Week7/ApiResponse$Error.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IF433_Lab_Works/oop_111394_KevinAlif/Week7/ApiResponse$Loading.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IF433_Lab_Works/oop_111394_KevinAlif/Week7/ApiResponse$Success.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IF433_Lab_Works/oop_111394_KevinAlif/Week7/ApiResponse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IF433_Lab_Works/oop_111394_KevinAlif/Week7/AppState.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IF433_Lab_Works/oop_111394_KevinAlif/Week7/BattleState$GameOver.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IF433_Lab_Works/oop_111394_KevinAlif/Week7/BattleState$LootDropped.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IF433_Lab_Works/oop_111394_KevinAlif/Week7/BattleState$MonsterEncounter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IF433_Lab_Works/oop_111394_KevinAlif/Week7/BattleState$SafeZone.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IF433_Lab_Works/oop_111394_KevinAlif/Week7/BattleState.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IF433_Lab_Works/oop_111394_KevinAlif/Week7/DataUser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IF433_Lab_Works/oop_111394_KevinAlif/Week7/DatabaseManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IF433_Lab_Works/oop_111394_KevinAlif/Week7/GameExecutorKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IF433_Lab_Works/oop_111394_KevinAlif/Week7/GameItem.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IF433_Lab_Works/oop_111394_KevinAlif/Week7/GameManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IF433_Lab_Works/oop_111394_KevinAlif/Week7/ItemRarity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IF433_Lab_Works/oop_111394_KevinAlif/Week7/MainKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IF433_Lab_Works/oop_111394_KevinAlif/Week7/NetworkClient$Companion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IF433_Lab_Works/oop_111394_KevinAlif/Week7/NetworkClient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IF433_Lab_Works/oop_111394_KevinAlif/Week7/RegularUser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IF433_Lab_Works/oop_111394_KevinAlif/Week7/Weapon$Companion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IF433_Lab_Works/oop_111394_KevinAlif/Week7/Weapon.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IF433_Lab_Works/oop_111394_KevinAlif/week4/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IF433_Lab_Works/oop_111394_KevinAlif/week4/Developer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IF433_Lab_Works/oop_111394_KevinAlif/week4/ElectricCar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IF433_Lab_Works/oop_111394_KevinAlif/week4/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IF433_Lab_Works/oop_111394_KevinAlif/week4/MainKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IF433_Lab_Works/oop_111394_KevinAlif/week4/Manager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IF433_Lab_Works/oop_111394_KevinAlif/week4/Vehicle.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="39X1RM74E6EU59LmV9L42kjzTA3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Kotlin.CircleCalculatorKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.GameStoreKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.GradingSystemKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.MainKt (1).executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.MainKt (2).executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.MainKt (3).executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.MainKt (4).executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.MainKt (5).executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.MainKt.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\kevin\IdeaProjects\IF433_Lab_Works\src" />
+    </key>
+    <key name="K2MoveDeclarationsDialog.RECENT_PACKAGE_KEY">
+      <recent name="oop_111394_KevinAlif.week02" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Kotlin.MainKt">
+    <configuration name="MainKt (2)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week03.MainKt" />
+      <module name="IF433_Lab_Works" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainKt (3)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oop_111394_KevinAlif.week4.MainKt" />
+      <module name="IF433_Lab_Works" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainKt (4)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oop_111394_KevinAlif.Week5.MainKt" />
+      <module name="IF433_Lab_Works" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainKt (5)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oop_111394_KevinAlif.Week6.MainKt" />
+      <module name="IF433_Lab_Works" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oop_111394_KevinAlif.Week7.MainKt" />
+      <module name="IF433_Lab_Works" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.MainKt" />
+        <item itemvalue="Kotlin.MainKt (5)" />
+        <item itemvalue="Kotlin.MainKt (4)" />
+        <item itemvalue="Kotlin.MainKt (3)" />
+        <item itemvalue="Kotlin.MainKt (2)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.30387.90" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7c193663-e0bf-4cf3-908a-3501f4dcd2b6" name="Changes" comment="" />
+      <created>1770827594592</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1770827594592</updated>
+      <workItem from="1770827598716" duration="334000" />
+      <workItem from="1770828010952" duration="3188000" />
+      <workItem from="1770911447658" duration="1180000" />
+      <workItem from="1770952423383" duration="3819000" />
+      <workItem from="1770999834488" duration="1451000" />
+      <workItem from="1772113207756" duration="2315000" />
+      <workItem from="1772213543426" duration="3125000" />
+      <workItem from="1773160908794" duration="1141000" />
+      <workItem from="1773372498441" duration="161000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="kotlin-function">
+          <url>file://$PROJECT_DIR$/src/week03/main.kt</url>
+          <line>2</line>
+          <properties>
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/oop_111394_KevinAlif/Week7/main.kt</url>
+          <line>3</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/oop_111394_KevinAlif/Week7/main.kt</url>
+          <line>41</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
