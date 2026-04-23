@@ -23,15 +23,21 @@ fun main() {
         "Laptop",
         4500000.0
     )
-
     for (item in mixedData) {
         val text = item as? String
         text?.let {
             println("Ditemukan teks: ${it.uppercase()}")
         }
     }
-
     val someObject: Any = 100
     val safeString = someObject as? String ?: "Unknown String"
     println("Hasil cast fallback: $safeString")
+
+    println("\n=== TEST THE RED BUTTON (!!) ===")
+    val toxicData: String? = null
+    try {
+        val length = toxicData!!.length
+    } catch (e: NullPointerException) {
+        println("CRASH (NPE)! Jangan gunakan !! secara sembarangan.")
+    }
 }
