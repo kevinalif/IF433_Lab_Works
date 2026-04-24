@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7c193663-e0bf-4cf3-908a-3501f4dcd2b6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/oop_111394_KevinAlif/Week9/TradingDashboard.kt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/oop_111394_KevinAlif/Week9/TradingModels.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/oop_111394_KevinAlif/Week9/HigherOrderFunctions.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop_111394_KevinAlif/Week9/HigherOrderFunctions.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/oop_111394_KevinAlif/Week9/ObjectChaining.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop_111394_KevinAlif/Week9/ObjectChaining.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop_111394_KevinAlif/Week9/TradingDashboard.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop_111394_KevinAlif/Week9/TradingDashboard.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +53,7 @@
     "Kotlin.MainKt (5).executor": "Run",
     "Kotlin.MainKt.executor": "Run",
     "Kotlin.ObjectChainingKt.executor": "Run",
+    "Kotlin.TradingDashboardKt.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
