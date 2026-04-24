@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7c193663-e0bf-4cf3-908a-3501f4dcd2b6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/oop_111394_KevinAlif/Week8/ECommerceMain.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop_111394_KevinAlif/Week8/JavaPaymentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop_111394_KevinAlif/Week9/CollectionsBasics.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IF433_Lab_Works/META-INF/IF433_Lab_Works.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IF433_Lab_Works/META-INF/IF433_Lab_Works.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oop_111394_KevinAlif/Week8/ApiParser.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop_111394_KevinAlif/Week8/ApiParser.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oop_111394_KevinAlif/Week8/JavaPaymentService.java.kt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +33,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Kotlin.CircleCalculatorKt.executor": "Run",
+    "Kotlin.CollectionsBasicsKt.executor": "Run",
     "Kotlin.ECommerceMainKt (1).executor": "Run",
     "Kotlin.ECommerceMainKt.executor": "Run",
     "Kotlin.EcommerceModelsKt.executor": "Run",
@@ -73,7 +70,14 @@
       <recent name="oop_111394_KevinAlif.week02" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.ECommerceMainKt (1)">
+  <component name="RunManager" selected="Kotlin.CollectionsBasicsKt">
+    <configuration name="CollectionsBasicsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oop_111394_KevinAlif.Week9.CollectionsBasicsKt" />
+      <module name="IF433_Lab_Works" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ECommerceMainKt (1)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="oop_111394_KevinAlif.Week8.ECommerceMainKt" />
       <module name="IF433_Lab_Works" />
@@ -102,29 +106,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oop_111394_KevinAlif.Week8.MainKt" />
-      <module name="IF433_Lab_Works" />
-      <shortenClasspath name="NONE" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
+      <item itemvalue="Kotlin.CollectionsBasicsKt" />
       <item itemvalue="Kotlin.ECommerceMainKt" />
       <item itemvalue="Kotlin.ECommerceMainKt (1)" />
       <item itemvalue="Kotlin.EcommerceModelsKt" />
       <item itemvalue="Kotlin.JavaPaymentServiceKt" />
-      <item itemvalue="Kotlin.MainKt" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.CollectionsBasicsKt" />
         <item itemvalue="Kotlin.ECommerceMainKt (1)" />
         <item itemvalue="Kotlin.EcommerceModelsKt" />
         <item itemvalue="Kotlin.JavaPaymentServiceKt" />
         <item itemvalue="Kotlin.ECommerceMainKt" />
-        <item itemvalue="Kotlin.MainKt" />
       </list>
     </recent_temporary>
   </component>
@@ -172,7 +167,7 @@
         <line-breakpoint enabled="true" type="kotlin-function">
           <url>file://$PROJECT_DIR$/src/oop_111394_KevinAlif/Week8/EcommerceModels.kt</url>
           <line>2</line>
-          <properties method="main">
+          <properties class="oop_111394_KevinAlif.Week8.Product">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
