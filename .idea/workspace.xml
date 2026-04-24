@@ -70,7 +70,7 @@
       <recent name="oop_111394_KevinAlif.week02" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.LambdaPracticeKt">
+  <component name="RunManager" selected="Kotlin.HigherOrderFunctionsKt">
     <configuration name="CollectionsBasicsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="oop_111394_KevinAlif.Week9.CollectionsBasicsKt" />
       <module name="IF433_Lab_Works" />
@@ -92,8 +92,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JavaPaymentServiceKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oop_111394_KevinAlif.Week8.JavaPaymentServiceKt" />
+    <configuration name="HigherOrderFunctionsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oop_111394_KevinAlif.Week9.HigherOrderFunctionsKt" />
       <module name="IF433_Lab_Works" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -107,19 +107,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Kotlin.HigherOrderFunctionsKt" />
       <item itemvalue="Kotlin.LambdaPracticeKt" />
       <item itemvalue="Kotlin.CollectionsBasicsKt" />
       <item itemvalue="Kotlin.ECommerceMainKt (1)" />
       <item itemvalue="Kotlin.EcommerceModelsKt" />
-      <item itemvalue="Kotlin.JavaPaymentServiceKt" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.HigherOrderFunctionsKt" />
         <item itemvalue="Kotlin.LambdaPracticeKt" />
         <item itemvalue="Kotlin.CollectionsBasicsKt" />
         <item itemvalue="Kotlin.ECommerceMainKt (1)" />
         <item itemvalue="Kotlin.EcommerceModelsKt" />
-        <item itemvalue="Kotlin.JavaPaymentServiceKt" />
       </list>
     </recent_temporary>
   </component>
