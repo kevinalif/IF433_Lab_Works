@@ -76,16 +76,9 @@
       <recent name="oop_111394_KevinAlif.week02" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.ObjectChainingKt">
+  <component name="RunManager" selected="Kotlin.TradingDashboardKt">
     <configuration name="CollectionsBasicsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="oop_111394_KevinAlif.Week9.CollectionsBasicsKt" />
-      <module name="IF433_Lab_Works" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ECommerceMainKt (1)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oop_111394_KevinAlif.Week8.ECommerceMainKt" />
       <module name="IF433_Lab_Works" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -112,20 +105,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TradingDashboardKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oop_111394_KevinAlif.Week9.TradingDashboardKt" />
+      <module name="IF433_Lab_Works" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Kotlin.HigherOrderFunctionsKt" />
       <item itemvalue="Kotlin.LambdaPracticeKt" />
       <item itemvalue="Kotlin.ObjectChainingKt" />
+      <item itemvalue="Kotlin.TradingDashboardKt" />
       <item itemvalue="Kotlin.CollectionsBasicsKt" />
-      <item itemvalue="Kotlin.ECommerceMainKt (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.TradingDashboardKt" />
         <item itemvalue="Kotlin.ObjectChainingKt" />
         <item itemvalue="Kotlin.HigherOrderFunctionsKt" />
         <item itemvalue="Kotlin.LambdaPracticeKt" />
         <item itemvalue="Kotlin.CollectionsBasicsKt" />
-        <item itemvalue="Kotlin.ECommerceMainKt (1)" />
       </list>
     </recent_temporary>
   </component>
