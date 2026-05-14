@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7c193663-e0bf-4cf3-908a-3501f4dcd2b6" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IF433_Lab_Works/META-INF/IF433_Lab_Works.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IF433_Lab_Works/oop_111394_KevinAlif/Week11/MainKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IF433_Lab_Works/oop_111394_KevinAlif/Week11/ScopeLetRunKt.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/oop_111394_KevinAlif/Week11/ScopeConfiguration.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop_111394_KevinAlif/Week11/ScopeConfiguration.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oop_111394_KevinAlif/Week11/ScopeLetRun.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop_111394_KevinAlif/Week11/ScopeLetRun.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oop_111394_KevinAlif/Week11/main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop_111394_KevinAlif/Week11/main.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,6 +50,7 @@
     "Kotlin.MainKt (5).executor": "Run",
     "Kotlin.MainKt.executor": "Run",
     "Kotlin.ObjectChainingKt.executor": "Run",
+    "Kotlin.ScopeConfigurationKt.executor": "Run",
     "Kotlin.ScopeLetRunKt.executor": "Run",
     "Kotlin.TradingDashboardKt.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
@@ -201,6 +196,15 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-function">
+          <url>file://$PROJECT_DIR$/src/oop_111394_KevinAlif/Week11/ScopeConfiguration.kt</url>
+          <line>4</line>
+          <properties method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="21" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="kotlin-line">
           <url>file://$PROJECT_DIR$/src/oop_111394_KevinAlif/Week7/main.kt</url>
