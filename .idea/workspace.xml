@@ -72,7 +72,7 @@
       <recent name="oop_111394_KevinAlif.week02" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.ScopeLetRunKt">
+  <component name="RunManager" selected="Kotlin.MainKt (1)">
     <configuration name="CryptoDashboardKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="oop_111394_KevinAlif.Week10.CryptoDashboardKt" />
       <module name="IF433_Lab_Works" />
@@ -117,8 +117,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.ScopeLetRunKt" />
         <item itemvalue="Kotlin.MainKt (1)" />
+        <item itemvalue="Kotlin.ScopeLetRunKt" />
         <item itemvalue="Kotlin.CryptoDashboardKt" />
         <item itemvalue="Kotlin.MainKt" />
         <item itemvalue="Kotlin.TradingDashboardKt" />
