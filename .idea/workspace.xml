@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7c193663-e0bf-4cf3-908a-3501f4dcd2b6" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/oop_111394_KevinAlif/Week11/ScopeConfiguration.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop_111394_KevinAlif/Week11/ScopeConfiguration.kt" afterDir="false" />
-    </list>
+    <list default="true" id="7c193663-e0bf-4cf3-908a-3501f4dcd2b6" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -204,7 +202,7 @@
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
-          <option name="timeStamp" value="21" />
+          <option name="timeStamp" value="22" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="kotlin-line">
           <url>file://$PROJECT_DIR$/src/oop_111394_KevinAlif/Week7/main.kt</url>
