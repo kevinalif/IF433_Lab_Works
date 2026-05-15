@@ -22,7 +22,7 @@ fun main() {
     val account = BankAccount(100.0)
 
     try {
-        account.withdraw(150.0) // Ini akan memicu InsufficientFundsException
+        account.withdraw(150.0)
     } catch (e: InsufficientFundsException) {
         println("Caught Domain Error: Uang tidak cukup. ${e.message}")
     } catch (e: IllegalArgumentException) {
