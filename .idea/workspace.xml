@@ -78,9 +78,9 @@
       <recent name="oop_111394_KevinAlif.week02" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.SmartHomeDashboardKt">
-    <configuration name="CryptoDashboardKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oop_111394_KevinAlif.Week10.CryptoDashboardKt" />
+  <component name="RunManager" selected="Kotlin.BasicExceptionKt">
+    <configuration name="BasicExceptionKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oop_111394_KevinAlif.Week12.BasicExceptionKt" />
       <module name="IF433_Lab_Works" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -115,19 +115,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Kotlin.BasicExceptionKt" />
       <item itemvalue="Kotlin.MainKt (1)" />
       <item itemvalue="Kotlin.ScopeConfigurationKt" />
       <item itemvalue="Kotlin.ScopeLetRunKt" />
       <item itemvalue="Kotlin.SmartHomeDashboardKt" />
-      <item itemvalue="Kotlin.CryptoDashboardKt" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.BasicExceptionKt" />
         <item itemvalue="Kotlin.SmartHomeDashboardKt" />
         <item itemvalue="Kotlin.ScopeConfigurationKt" />
         <item itemvalue="Kotlin.ScopeLetRunKt" />
         <item itemvalue="Kotlin.MainKt (1)" />
-        <item itemvalue="Kotlin.CryptoDashboardKt" />
       </list>
     </recent_temporary>
   </component>
