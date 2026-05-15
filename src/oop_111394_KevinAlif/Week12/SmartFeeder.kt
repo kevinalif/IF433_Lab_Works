@@ -31,7 +31,6 @@ fun main() {
     } catch (e: Exception) {
         println("ERROR UMUM: ${e.message}")
     }
-    // Jadwal Makan 1: Pagi (dengan finally)
     println("=== JADWAL MAKAN PAGI ===")
     try {
         currentKibbleStock = dispenseKibble(
@@ -47,5 +46,9 @@ fun main() {
         println("ERROR UMUM: ${e.message}")
     } finally {
         println("Siklus pengecekan dispenser pagi selesai.")
+    }
+    println("\n=== JADWAL MAKAN SORE ===")
+    runCatching {
+        dispenseKibble(requestedGram = 30, availableGram = 1000, isJammed = false)
     }
 }
