@@ -80,7 +80,7 @@
       <recent name="oop_111394_KevinAlif.week02" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.ResourceHandlingKt">
+  <component name="RunManager" selected="Kotlin.StudentSerializationKt">
     <configuration name="BasicExceptionKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="oop_111394_KevinAlif.Week12.BasicExceptionKt" />
       <module name="IF433_Lab_Works" />
@@ -102,15 +102,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ScopeConfigurationKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oop_111394_KevinAlif.Week11.ScopeConfigurationKt" />
+    <configuration name="SmartHomeDashboardKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oop_111394_KevinAlif.Week11.SmartHomeDashboardKt" />
       <module name="IF433_Lab_Works" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SmartHomeDashboardKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oop_111394_KevinAlif.Week11.SmartHomeDashboardKt" />
+    <configuration name="StudentSerializationKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oop_111394_KevinAlif.Week13.StudentSerializationKt" />
       <module name="IF433_Lab_Works" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -119,17 +119,17 @@
     <list>
       <item itemvalue="Kotlin.BasicFileIOKt" />
       <item itemvalue="Kotlin.ResourceHandlingKt" />
+      <item itemvalue="Kotlin.StudentSerializationKt" />
       <item itemvalue="Kotlin.BasicExceptionKt" />
-      <item itemvalue="Kotlin.ScopeConfigurationKt" />
       <item itemvalue="Kotlin.SmartHomeDashboardKt" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.StudentSerializationKt" />
         <item itemvalue="Kotlin.ResourceHandlingKt" />
         <item itemvalue="Kotlin.BasicFileIOKt" />
         <item itemvalue="Kotlin.BasicExceptionKt" />
         <item itemvalue="Kotlin.SmartHomeDashboardKt" />
-        <item itemvalue="Kotlin.ScopeConfigurationKt" />
       </list>
     </recent_temporary>
   </component>
