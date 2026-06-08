@@ -12,6 +12,7 @@
       <list>
         <option value="Kotlin Script MainKts.main" />
         <option value="Class" />
+        <option value="Kotlin File" />
         <option value="Kotlin Class" />
       </list>
     </option>
